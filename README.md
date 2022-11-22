@@ -35,7 +35,7 @@ to find out what means what. This rule applies for every word.
 
 -The value of the four digit number is all the numbers added up, multiplied by the number of zeros, minus two. This means there's a lot of ways to count up
 to the same number, which combined with the above rule, means you can say the same thing in a hell of a lot of different ways. Here's me counting from 0 to 5:
-0111, 0110, 0223, 2020, 3201
+0111, 0110, 0223, 0020, 0313 (note that, were it not for the subtracting of two, you couldn't have the numbers 1 and 2, plus a whole bunch of others) (also note that this can really only go up to 25- nine times three, minus two) (technically you can have 9x4 -2 with 9999 but that's pointless without numbers between that and 25)
 
 -The value of the abjad is whatever you want it to be. Is it a multiplier to one of the word values? Does it corrospond to a text file that has phrases that in turn 
 corrospond to the value of the other four numbers? Truly, it is up to you. 

@@ -1,5 +1,6 @@
 # LechymodsCypher
 --> So, what in sam hell is this?
+
 Leachymods cypher is a logic game I've come up with to keep myself entertained. It is a way of storing information, but I've never used it to actually encode any message.
 
 --> That still doesn't make any sense.
@@ -17,6 +18,7 @@ I'd probably leave them in that order, because the symmetric structure would mak
 and 0030 are all examples of this.
 
 -Next, choose one of the following semetic abjads. Which one doesn't matter- let your heart guide you
+
 Aleph Daleth Resh Semkat Lamedh Taw Zayn Sadhe Ayin Qoph
 
 --> So, now what? 
